@@ -14,8 +14,8 @@ public class TestOverloading {
 	// }
 
 	
-		 
-	// Gleiche Signatur | return type ?	
+	// Gleiche Signatur | return type ?			 
+
 	// public void sayHello() {
 	// 	System.out.println("Hello");
 	// }
@@ -25,9 +25,9 @@ public class TestOverloading {
 	// 	return "hi";
 	// }
 	
-	
-	
+
 	// Gleiche Signatur 3 | Access Modifier ?
+	
 	// public void sayHello() {
 	// 	System.out.println("Hello");
 	// }
